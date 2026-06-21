@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H7p5 </h1>
-<h3 align="center">🚀 Student | Learning cybersec & Linux OS dev | Future developer</h3>
+<h3 align="center">🚀 Student |  cybersec & Linux OS dev | I use Arch BTW </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h7p5" alt="h7p5" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML . CSS . Linux**
 
-- 📫 How to reach me **achrafghacha77@gmail.com**
+- 📫 How to reach me **spinfxfx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
