@@ -60,7 +60,7 @@ My goal is simple: write clean code, keep learning, and grow into a software eng
 
 <p align="center">
   <a href="https://github.com/h7p5/chess-engine"><b>h7p5/chess-engine</b></a><br/>
-  A chess engine written in JavaScript.<br/><br/>
+  A chess engine written in JavaScript. <a href="https://h7p5.github.io/chess-engine/"><b>▶ Play it live</b></a><br/><br/>
   <a href="https://github.com/h7p5/chess-engine">
     <img src="https://img.shields.io/github/languages/top/h7p5/chess-engine?style=for-the-badge&logo=javascript&color=161b22&labelColor=0d1117" alt="Top language"/>
     <img src="https://img.shields.io/github/last-commit/h7p5/chess-engine?style=for-the-badge&color=161b22&labelColor=0d1117" alt="Last commit"/>
