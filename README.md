@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=h7p5&fontSize=60&fontColor=c9d1d9&fontAlign=50&fontAlignY=50&desc=%3E%20Arch%20btw%20%F0%9F%90%A7&descAlign=50&descAlignY=80&descSize=16" alt="banner" width="100%"/>
+  <img src="banner.svg" alt="PROJECT.EXE banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Achraf</h1>
@@ -59,8 +59,11 @@ My goal is simple: write clean code, keep learning, and grow into a software eng
 <h2 align="center">♟️ Featured Project</h2>
 
 <p align="center">
+  <a href="https://github.com/h7p5/chess-engine"><b>h7p5/chess-engine</b></a><br/>
+  A chess engine written in JavaScript.<br/><br/>
   <a href="https://github.com/h7p5/chess-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=h7p5&repo=chess-engine&theme=github_dark&hide_border=true&bg_color=161b22" alt="chess-engine"/>
+    <img src="https://img.shields.io/github/languages/top/h7p5/chess-engine?style=for-the-badge&logo=javascript&color=161b22&labelColor=0d1117" alt="Top language"/>
+    <img src="https://img.shields.io/github/last-commit/h7p5/chess-engine?style=for-the-badge&color=161b22&labelColor=0d1117" alt="Last commit"/>
   </a>
 </p>
 
@@ -79,7 +82,8 @@ My goal is simple: write clean code, keep learning, and grow into a software eng
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=h7p5&theme=github-dark-blue&hide_border=true&background=161b22" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/github/followers/h7p5?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/h7p5?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117&affiliations=OWNER" alt="Stars"/>
 </p>
 
 ---
@@ -87,5 +91,5 @@ My goal is simple: write clean code, keep learning, and grow into a software eng
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h7p5&bg_color=161b22&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/58a6ff/h7p5" alt="Contribution chart" width="100%"/>
 </p>
