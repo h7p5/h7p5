@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Achraf banner" width="100%"/>
+  <img src="banner.webp" alt="Achraf banner" width="100%"/>
 </p>
 
 <h2 align="center">👋 Hi, I'm <a href="https://h7p5.github.io">Achraf</a>!</h2>
