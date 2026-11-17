@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/h7p5">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Just+Code+It.;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+JavaScript;Strategy+in+chess%2C+logic+in+code." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Just+Code+It.;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+JavaScript" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -25,12 +25,10 @@
 ### About me
 
 <table align="left">
-  <tr><td>🎓 <b>Final-year high school</b> • Experimental Sciences</td></tr>
-  <tr><td>💻 <b>Next step:</b> Computer Science</td></tr>
+  <tr><td>🎓 <b>Computer Science Student</b></td></tr>
   <tr><td>📍 Algeria 🇩🇿</td></tr>
   <tr><td>🛠️ <b>Currently building:</b> <a href="https://github.com/h7p5/chess-engine">chess engine</a> • Python tools</td></tr>
   <tr><td>🐧 <b>Environment:</b> <a href="https://archlinux.org">Arch Linux</a> + <a href="https://hyprland.org">Hyprland</a></td></tr>
-  <tr><td>⚡ <b>Love to:</b> Code • Chess ♟️ • Calisthenics 💪</td></tr>
   <tr><td>🔌 <b>Also:</b> Electronics with Arduino</td></tr>
   <tr><td>🌍 <b>Languages:</b> 🇩🇿 Arabic • 🇬🇧 English • 🇫🇷 French</td></tr>
 </table>
